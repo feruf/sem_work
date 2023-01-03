@@ -1,0 +1,7 @@
+﻿  mainF.cpp
+C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\feru.h(246,12): warning C4101: 'winners': unreferenced local variable
+C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\feru.h(466,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\feru.h(660,22): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\feru.h(655,12): warning C4101: 'masiv': unreferenced local variable
+C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\mainF.cpp(5,9): warning C4101: 'choise': unreferenced local variable
+  mainF.vcxproj -> C:\Users\feray\Desktop\cplusplus\sem_22621706\mainF\x64\Debug\mainF.exe
